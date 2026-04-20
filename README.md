@@ -32,6 +32,9 @@ We build **real, verifiable climate infrastructure** — not just reports.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Earthoodplanet&theme=tokyo-night&hide_border=true"/>
 </p>
+ 
+
+![Metrics](https://raw.githubusercontent.com/Earthoodplanet/Earthoodplanet/main/github-metrics.svg)
 
 ---
 
