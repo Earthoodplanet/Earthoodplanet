@@ -34,8 +34,9 @@ We build **real, verifiable climate infrastructure** — not just reports.
 </p>
  
 
-![Metrics](https://raw.githubusercontent.com/Earthoodplanet/Earthoodplanet/main/github-metrics.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Earthoodplanet/Earthoodplanet/main/metrics_renders/github-metrics.svg" />
+</p>
 ---
 
 ## ⚙️ What We Build
